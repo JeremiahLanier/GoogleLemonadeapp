@@ -1,3 +1,6 @@
+This is my completed version
+
+
 Project: Lemonade App - Starter Code
 ==================================
 
